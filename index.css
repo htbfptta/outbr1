@@ -1,0 +1,20 @@
+.fundo{
+    background-image: url('/imgs/637a4d42e1738853b2f96ffbbd60622a.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.campo{
+    border-radius: 5px;
+}
+.linha{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 15px;
+    margin-top: 15px;
+}
+.campoUser{
+    margin-left: 50px;
+}
+.campoSobrenome{
+    margin-left: 10px;
+}
